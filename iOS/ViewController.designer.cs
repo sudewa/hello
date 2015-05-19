@@ -27,6 +27,10 @@ namespace hello.iOS
 
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
+		UITextView txtBigText { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
 		UITextField txtWebText { get; set; }
 
 		[Action ("btnConnect_TouchUpInside:")]
@@ -46,6 +50,10 @@ namespace hello.iOS
 			if (btnReset != null) {
 				btnReset.Dispose ();
 				btnReset = null;
+			}
+			if (txtBigText != null) {
+				txtBigText.Dispose ();
+				txtBigText = null;
 			}
 			if (txtWebText != null) {
 				txtWebText.Dispose ();
