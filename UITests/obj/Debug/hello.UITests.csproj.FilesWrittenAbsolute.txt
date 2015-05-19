@@ -1,7 +1,0 @@
-/Users/sudewa/Projects/hello/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/sudewa/Projects/hello/UITests/bin/Debug/hello.UITests.dll.mdb
-/Users/sudewa/Projects/hello/UITests/bin/Debug/hello.UITests.dll
-/Users/sudewa/Projects/hello/UITests/obj/Debug/hello.UITests.dll
-/Users/sudewa/Projects/hello/UITests/obj/Debug/hello.UITests.dll.mdb
-/Users/sudewa/Projects/hello/UITests/bin/Debug/nunit.framework.dll
-/Users/sudewa/Projects/hello/UITests/bin/Debug/Xamarin.UITest.dll

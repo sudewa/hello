@@ -27,7 +27,7 @@ namespace hello.iOS
 
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
-		UITextView txtBigText { get; set; }
+		UITextView txtLongText { get; set; }
 
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
@@ -51,9 +51,9 @@ namespace hello.iOS
 				btnReset.Dispose ();
 				btnReset = null;
 			}
-			if (txtBigText != null) {
-				txtBigText.Dispose ();
-				txtBigText = null;
+			if (txtLongText != null) {
+				txtLongText.Dispose ();
+				txtLongText = null;
 			}
 			if (txtWebText != null) {
 				txtWebText.Dispose ();

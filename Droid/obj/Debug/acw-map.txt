@@ -1,4 +1,0 @@
-hello.Droid.MainActivity, hello.Droid;md50818dad51b416d1c803c444f726a5112.MainActivity
-hello.Droid.MainActivity, hello.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50818dad51b416d1c803c444f726a5112.MainActivity
-hello.Droid.MainActivity;md50818dad51b416d1c803c444f726a5112.MainActivity
-hello.droid.MainActivity;md50818dad51b416d1c803c444f726a5112.MainActivity

@@ -1,5 +1,0 @@
-/Users/sudewa/Projects/hello/hello/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
-/Users/sudewa/Projects/hello/hello/bin/Debug/hello.dll.mdb
-/Users/sudewa/Projects/hello/hello/bin/Debug/hello.dll
-/Users/sudewa/Projects/hello/hello/obj/Debug/hello.dll
-/Users/sudewa/Projects/hello/hello/obj/Debug/hello.dll.mdb
